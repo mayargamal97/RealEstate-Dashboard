@@ -41,6 +41,6 @@ A Power BI dashboard providing insights into real estate market trends, financia
 
 ## Getting Started
 
-1. **View the Dashboard**: Explore images in the `/screenshots` folder for a visual overview of the dashboard.
+1. **View the Dashboard**: Explore the visual overview of the dashboard through the images included in this README file.
 2. **Data**: The `/data` folder contains sample data used in the dashboard. Replace with your own data as needed to see real-time insights.
 3. **Usage**: Use this dashboard to track KPIs, analyze client demographics, and make informed financial and strategic decisions.
