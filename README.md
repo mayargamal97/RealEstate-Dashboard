@@ -44,3 +44,15 @@ A Power BI dashboard providing insights into real estate market trends, financia
 1. **View the Dashboard**: Explore the visual overview of the dashboard through the images included in this README file.
 2. **Data**: The `/data` folder contains sample data used in the dashboard. Replace with your own data as needed to see real-time insights.
 3. **Usage**: Use this dashboard to track KPIs, analyze client demographics, and make informed financial and strategic decisions.
+
+## Data Processing and Calculations
+
+This Power BI dashboard leverages several key tools and technologies to perform data transformations and calculations:
+
+- **Power Query**: Used for data importation and transformation, Power Query enables the cleaning, shaping, and loading of data from various sources into the Power BI environment. This process ensures that the data is in the correct format for analysis.
+
+- **DAX (Data Analysis Expressions)**: DAX is utilized for creating custom calculations and measures within the dashboard. It allows for advanced data modeling and enables the creation of dynamic calculations that respond to user interactions and filter selections.
+
+- **Data Modeling**: The relationships between different data tables are established to create a comprehensive data model. This ensures accurate insights and visualizations throughout the dashboard.
+
+These tools collectively enhance the analytical capabilities of the dashboard, providing valuable insights into real estate market trends and performance metrics.
