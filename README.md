@@ -19,7 +19,7 @@ A Power BI dashboard providing insights into real estate market trends, financia
 ![Screenshot (127)](https://github.com/user-attachments/assets/35c4b001-4144-4af2-b3f1-71002b5f3368)
 
    
-3. **Financial & Regional Performance**
+2. **Financial & Regional Performance**
    - Expenses by Category and Quarter
    - ROI by Property Type
    - Expenses by Property Type and Expense Type
@@ -29,7 +29,7 @@ A Power BI dashboard providing insights into real estate market trends, financia
 ![Screenshot (130)](https://github.com/user-attachments/assets/d09d89b3-1988-40e3-a35c-1b763ec26dca)
 
 
-2. **Client Insights adn Trend Forecasting**
+3. **Client Insights adn Trend Forecasting**
    - Average Sale Price by Occupation
    - Properties Sold by Occupation and Type
    - Client Occupation Insights by Top Property Type and Region
