@@ -55,4 +55,7 @@ This Power BI dashboard leverages several key tools and technologies to perform 
 
 - **Data Modeling**: The relationships between different data tables are established to create a comprehensive data model. This ensures accurate insights and visualizations throughout the dashboard.
 
+![Screenshot (134)](https://github.com/user-attachments/assets/dbdfa1ab-990e-4c94-b72f-1e04c469f82a)
+
+
 These tools collectively enhance the analytical capabilities of the dashboard, providing valuable insights into real estate market trends and performance metrics.
