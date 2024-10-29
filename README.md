@@ -9,6 +9,8 @@ A Power BI dashboard providing insights into real estate market trends, financia
 - **Financial & Regional Performance**: Visualizes expense trends by category, ROI by property type, sales volume by country, and highlights the most expensive properties sold.
 
 ## Visuals Included
+![Screenshot (127)](https://github.com/user-attachments/assets/35c4b001-4144-4af2-b3f1-71002b5f3368)
+
 1. **Market Overview**a
    - Sales, Profit, Properties Sold, Average Price
    - Yearly Performance Summary
@@ -16,8 +18,7 @@ A Power BI dashboard providing insights into real estate market trends, financia
    - Sales by Means of Sales (Direct, Broker, Online)
    - Sales by Property Type and Monthly Sales Trends
      
-![Screenshot (127)](https://github.com/user-attachments/assets/35c4b001-4144-4af2-b3f1-71002b5f3368)
-
+![Screenshot (130)](https://github.com/user-attachments/assets/d09d89b3-1988-40e3-a35c-1b763ec26dca)
    
 2. **Financial & Regional Performance**
    - Expenses by Category and Quarter
@@ -26,8 +27,7 @@ A Power BI dashboard providing insights into real estate market trends, financia
    - Properties Sold by Location, Date, Price, and Payment Status
    - Sales by Country and Most Expensive Property Highlight
 
-![Screenshot (130)](https://github.com/user-attachments/assets/d09d89b3-1988-40e3-a35c-1b763ec26dca)
-
+![Screenshot (129)](https://github.com/user-attachments/assets/c45c44cb-054a-4208-840f-f481a5291253)
 
 3. **Client Insights adn Trend Forecasting**
    - Average Sale Price by Occupation
@@ -35,7 +35,6 @@ A Power BI dashboard providing insights into real estate market trends, financia
    - Client Occupation Insights by Top Property Type and Region
    - Sales and Price Forecast for the Next 12 Months
      
-![Screenshot (129)](https://github.com/user-attachments/assets/c45c44cb-054a-4208-840f-f481a5291253)
 
 
 
